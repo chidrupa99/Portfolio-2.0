@@ -1,7 +1,7 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "https://chidrupa99.github.io/React-portfolio",
+  "homepage": "https://chidrupa99.github.io/Portfolio-2.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
